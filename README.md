@@ -1,12 +1,10 @@
 ## Sign-Aware Recommendation Systems with Graph Neural Networks (SiReN)
 
-### This is PyTorch implementation code for our paper:
+### This is PyTorch implementation code for paper:
 
 > C. Seo et al., SiReN: Sign-Aware Recommendation Using Graph Neural Networks, 
 >
 > [Paper in arXiv](https://arxiv.org/abs/2108.08735)
-
-Note. In this implementation, we use LightGCN (X. He et al., SIGIR'20) as the GNN model for the graph with positive edges in SiReN.
 
 
 ### Example : ML-1M dataset
